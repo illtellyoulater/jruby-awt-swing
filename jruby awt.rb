@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # code is not recent (about 2 ys ago), beware!!
 
-=======
->>>>>>> e9d18aece80ba9ec5f93d3e5d319c0f2645ed774
 #La libreria Swing è un'estensione di AWT
 
 require 'java'
